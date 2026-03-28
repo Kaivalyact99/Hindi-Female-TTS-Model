@@ -62,31 +62,24 @@ to predict how long a spoken Hindi sentence will be.
 - Waveform, spectrogram, MFCCs visualization
 - Distribution analysis of duration, character counts, word counts
 - 📓 [View Notebook](notebooks/phase_01_eda_signal_processing/)
-- 📊 [View All Visualizations](Hindi-Female-TTS-Model/Results/Phase_01)
+- 📊 [View All Visualizations](results/Phase_01/)
 - 📄 [View Report & Presentation](docs/phase_01/)
 
 ### ✅ Phase 02 — Predicting Hindi Speech Duration from Text (ML)
-- Feature engineering from Hindi text
-- Models trained: Linear Regression, Random Forest, XGBoost, SVR
-- Evaluation metrics: MAE, RMSE, R²
+- Feature engineering from Hindi text (char count, matra, halant)
+- Models: Linear Regression vs Polynomial Regression Degree 2
+- **Best Model: Linear Regression — R² = 0.8928**
+- Each character adds ~0.108 seconds to predicted duration
 - 📓 [View Notebook](notebooks/phase_02_duration_prediction/)
+- 📊 [View All Visualizations](results/Phase_02/)
 - 📄 [View Report & Presentation](docs/phase_02/)
-
-### 🔜 Phase 03 — Deep Learning (Coming Soon)
-- Sequence-to-sequence duration models
-- Transformer-based prediction
-- End-to-end Neural TTS exploration
-
----
 
 ## 📊 Results Summary (Phase 02)
 
-| Model | MAE (s) | RMSE (s) | R² |
-|-------|---------|----------|-----|
-| Linear Regression | — | — | — |
-| Random Forest | — | — | — |
-| XGBoost | — | — | — |
-| SVR | — | — | — |
+| Model | Features | R² Score | Verdict |
+|-------|----------|----------|---------|
+| Linear Regression | 3 | **0.8928** | ✅ Selected |
+| Polynomial Degree 2 | 9 | 0.8939 | ❌ Overcomplicated |
 
 ---
 
