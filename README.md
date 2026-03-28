@@ -50,7 +50,7 @@ to predict how long a spoken Hindi sentence will be.
 | `avg_word_len` | Average word length |
 | `duration` | **Target variable** — audio duration (seconds) |
 
-> ⚠️ Audio files are NOT stored in this repo due to size (~10 GB).  
+> ⚠️ Audio files are NOT stored in this repo due to size (~2.5 GB).  
 > See [`data/raw/README.md`](data/raw/README.md) for download instructions.
 
 ---
