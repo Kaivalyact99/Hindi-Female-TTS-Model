@@ -30,7 +30,7 @@ data/
 | Property | Value |
 |----------|-------|
 | Total Files | 4,586 .wav files |
-| Total Size | ~10 GB |
+| Total Size | ~2.5GB |
 | Format | WAV (16-bit, 48kHz, Mono) |
 | Language | Hindi (Standard) |
 | Speaker | Single Female |
