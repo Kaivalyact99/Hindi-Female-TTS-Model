@@ -222,4 +222,5 @@ All plots generated using Python with the following libraries:
 - `numpy` — numerical operations
 
 See full code in:  
-```📓 [`notebooks/phase_01_eda_signal_processing/audio_signal_processing.ipynb`](../../../notebooks/phase_01_eda_signal_processing/)```
+📓 [`notebooks/phase_01_eda_signal_processing/audio_signal_processing.ipynb`](../../../notebooks/phase_01_eda_signal_processing/)
+```
