@@ -132,6 +132,3 @@ Kaivalya C Trimbake @Kaivalyact99
 MIT License — see [LICENSE](LICENSE)  
 Dataset from [AI4Bharat IndiaAI AiKosh](https://aikosh.indiaai.gov.in)
 ```
-# Utilities
-tqdm>=4.62.0
-regex>=2021.8.3
