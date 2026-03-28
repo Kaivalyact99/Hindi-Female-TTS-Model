@@ -35,7 +35,7 @@ to predict how long a spoken Hindi sentence will be.
 | Recording | Studio Quality |
 | Sampling Rate | 48,000 Hz (48 kHz) |
 | Bit Depth | 16-bit |
-| Channels | Mono |
+| Channels | Mono|
 
 ### Feature CSV Columns
 
