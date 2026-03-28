@@ -110,7 +110,9 @@ jupyter notebook notebooks/phase_02_duration_prediction/
 ---
 
 ## 👥 Contributors
+
 Mohit D Gedam  @mg270524
+
 Kaivalya C Trimbake @Kaivalyact99
 
 ---
