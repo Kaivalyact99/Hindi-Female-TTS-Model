@@ -110,12 +110,8 @@ jupyter notebook notebooks/phase_02_duration_prediction/
 ---
 
 ## 👥 Contributors
-
-| Name | Role |
-|------|------|
-| Your Name | Feature Engineering, ML Modeling |
-| Friend Name | Audio Processing, Signal Analysis |
-| Friend Name | Dataset Collection, Documentation |
+Mohit D Gedam  @mg270524
+Kaivalya C Trimbake @Kaivalyact99
 
 ---
 
@@ -134,38 +130,6 @@ jupyter notebook notebooks/phase_02_duration_prediction/
 MIT License — see [LICENSE](LICENSE)  
 Dataset from [AI4Bharat IndiaAI AiKosh](https://aikosh.indiaai.gov.in)
 ```
-
-4. Scroll down → **"Commit changes"** (green button)
-5. In the popup, write commit message: `docs: add complete README`
-6. Click **"Commit changes"**
-
----
-
-### 📄 File 2: requirements.txt
-
-**Add file → Create new file** → name it `requirements.txt`
-```
-# Core Data Science
-numpy>=1.21.0
-pandas>=1.3.0
-scikit-learn>=1.0.0
-
-# Audio Processing
-librosa>=0.9.0
-soundfile>=0.10.3
-scipy>=1.7.0
-
-# Visualization
-matplotlib>=3.4.0
-seaborn>=0.11.0
-
-# Notebooks
-jupyter>=1.0.0
-ipykernel>=6.0.0
-
-# ML Models
-xgboost>=1.5.0
-
 # Utilities
 tqdm>=4.62.0
 regex>=2021.8.3
