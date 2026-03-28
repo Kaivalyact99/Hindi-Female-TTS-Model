@@ -62,7 +62,7 @@ to predict how long a spoken Hindi sentence will be.
 - Waveform, spectrogram, MFCCs visualization
 - Distribution analysis of duration, character counts, word counts
 - 📓 [View Notebook](notebooks/phase_01_eda_signal_processing/)
-- 📊 [View All Visualizations](results/Phase_01/)
+- 📊 [View All Visualizations](results/phase_01/)
 - 📄 [View Report & Presentation](docs/phase_01/)
 
 ### ✅ Phase 02 — Predicting Hindi Speech Duration from Text (ML)
@@ -71,7 +71,7 @@ to predict how long a spoken Hindi sentence will be.
 - **Best Model: Linear Regression — R² = 0.8928**
 - Each character adds ~0.108 seconds to predicted duration
 - 📓 [View Notebook](notebooks/phase_02_duration_prediction/)
-- 📊 [View All Visualizations](results/Phase_02/)
+- 📊 [View All Visualizations](results/phase_02/)
 - 📄 [View Report & Presentation](docs/phase_02/)
 
 ## 📊 Results Summary (Phase 02)
