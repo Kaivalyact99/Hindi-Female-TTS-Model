@@ -24,7 +24,7 @@ against **sample index** (number of audio samples).
 - Peak amplitude reaches **±0.8** indicating good recording quality
 - **Symmetric waveform** confirms clean studio recording
 
-### Why It Matters
+### Why It Matter
 This is the raw digital representation of the speaker's voice.  
 Each spike corresponds to a spoken syllable or word in the Hindi sentence.
 
