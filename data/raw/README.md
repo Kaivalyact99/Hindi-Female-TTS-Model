@@ -10,7 +10,7 @@ Visit the official dataset page:
 https://aikosh.indiaai.gov.in/web/datasets/details/hindi_female_mono_indictts_phase3.html
 
 ### Option 2 — Google Drive Mirror
-[Add your Google Drive link here]
+[Download Hindi_fem_audio Dataset]  :- https://drive.google.com/drive/folders/1e_KYI4CEgQ7xLGDJkHlwy42ucUmwmLs2?usp=sharing
 
 ## After Downloading
 
